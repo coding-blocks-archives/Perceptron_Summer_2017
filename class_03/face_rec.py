@@ -53,7 +53,7 @@ while True:
 			# Extract detected face
 			fc = fr[y:y+h, x:x+w, :]
 			# resize to a fixed shape
-			r = cv2.resize(fc, (50, 50)).flatten()
+			r = cv2.resize(fr, (50, 50)).flatten()
 
 			text = names[int(knn(data, labels, r))]
 			cv2.putText(fr, text, (x, y), font, 1, (255, 255, 0), 2)
