@@ -35,4 +35,4 @@ cv2.destroyAllWindows()
 data = np.asarray(data)
 
 print data.shape
-np.save('face_01', data)
+np.save('face_03', data)
