@@ -4,7 +4,7 @@ import numpy as np
 import cv2
 
 cam = cv2.VideoCapture(0)
-facec = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
+facec = cv2.CascadeClassifier('haarcascade_frontalface_alt.xml')
 
 data = []
 ix = 0
