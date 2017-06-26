@@ -11,3 +11,4 @@ Coding Blocks, Pitampura.
 4. Class_04: K-Means clustering and Most Dominant Color extraction
 5. Class_05: Decision Trees and Random Forests
 6. Class_06: Principal Component Analysis
+7. Class_07: Linear Regression
