@@ -12,3 +12,5 @@ Coding Blocks, Pitampura.
 5. Class_05: Decision Trees and Random Forests
 6. Class_06: Principal Component Analysis
 7. Class_07: Linear Regression
+8. Class_08: NeuralNets w/ Keras
+9. CLass_09: Neural Nets (numpy), MNIST classification, AutoEncoder (stacked, simple)
