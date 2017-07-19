@@ -16,3 +16,4 @@ Coding Blocks, Pitampura.
 9. Class_09: Neural Nets (numpy), MNIST classification, AutoEncoder (stacked, simple)
 10. Class_11: ConvNets and Conv Auto Encoders
 11. Class_13: Transfer Learning, Differential Evolution, Genetic Algorithm
+12. Class_14: Markov chains, intro to RNN
