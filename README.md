@@ -13,4 +13,6 @@ Coding Blocks, Pitampura.
 6. Class_06: Principal Component Analysis
 7. Class_07: Linear Regression
 8. Class_08: NeuralNets w/ Keras
-9. CLass_09: Neural Nets (numpy), MNIST classification, AutoEncoder (stacked, simple)
+9. Class_09: Neural Nets (numpy), MNIST classification, AutoEncoder (stacked, simple)
+10. Class_11: ConvNets and Conv Auto Encoders
+11. Class_13: Transfer Learning, Differential Evolution, Genetic Algorithm
