@@ -17,3 +17,5 @@ Coding Blocks, Pitampura.
 10. Class_11: ConvNets and Conv Auto Encoders
 11. Class_13: Transfer Learning, Differential Evolution, Genetic Algorithm
 12. Class_14: Markov chains, intro to RNN
+13. Class_15: RNN for Addition, LSTM for image generation
+14. Class_16:
