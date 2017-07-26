@@ -2,3 +2,6 @@
 *.csv
 *.pdf
 *.npy
+*.tsv
+*.bin
+*.zip
