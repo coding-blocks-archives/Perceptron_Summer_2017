@@ -5,3 +5,5 @@
 *.tsv
 *.bin
 *.zip
+*.png
+*.h5
