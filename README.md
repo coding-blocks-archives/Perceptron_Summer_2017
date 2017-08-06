@@ -19,3 +19,8 @@ Coding Blocks, Pitampura.
 12. Class_14: Markov chains, intro to RNN
 13. Class_15: RNN for Addition, LSTM for image generation
 14. Class_16: Deep Dream and Neural Art
+15. Class_17: Naive Bayes and SVM
+16. Class_18: Word2Vec and Scraping
+17. Class_19: Attention mechanism
+18. Class_20: Simple RL and Q-leanring
+19. Class_21: Deep Q-learning and Sentiment Analysis
