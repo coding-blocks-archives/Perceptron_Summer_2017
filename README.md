@@ -24,3 +24,4 @@ Coding Blocks, Pitampura.
 17. Class_19: Attention mechanism
 18. Class_20: Simple RL and Q-leanring
 19. Class_21: Deep Q-learning and Sentiment Analysis
+20. Class_22: Generative Adversarial Networks
